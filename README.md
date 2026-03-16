@@ -86,8 +86,8 @@ I am a Junior at the **University of Illinois Urbana-Champaign**, building **hig
 ---
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📧 [Email](mailto:your-email@illinois.edu)
+- 💼 [LinkedIn](https://www.linkedin.com/in/amm21)
+- 📧 [Email Me!](mailto:amm21@illinois.edu)
 - 📄 [View My Resume](./path-to-your-resume.pdf)
 
 *"Currently deep-diving into lock-free concurrency and preparing for Summer 2026 SWE roles."*
