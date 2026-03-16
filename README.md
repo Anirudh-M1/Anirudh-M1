@@ -73,7 +73,7 @@ I am a Junior at the **University of Illinois Urbana-Champaign**, building **hig
 
 ### 💻 Low-Level & Systems Engineering
 
-#### 🐧 [Unix-like Kernel Implementation](https://github.com/yourusername/kernel-project)
+#### 🐧 Unix-like Kernel Implementation
 **The Challenge:** Developed core OS functionalities by extending a teaching kernel to support full process lifecycles, virtual memory, and hardware abstraction.
 * **Key Tech:** `C`, `x86 Architecture`, `GDB`, `Assembly`, `Low-level Memory Management`
 * **Process Management:** Engineered **context switching** and scheduling mechanisms to facilitate concurrent user-mode execution.
