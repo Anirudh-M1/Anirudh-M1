@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 Professional Summary
-I am a Junior at the **University of Illinois Urbana-Champaign** focused on building high-performance, fault-tolerant systems. With a strong foundation in memory management and concurrency, I’m passionate about solving complex infrastructure challenges in Big Tech and High-Frequency Trading environments.
+I am a Junior at the **University of Illinois Urbana-Champaign**, building **high-performance, fault-tolerant systems** through **hands-on projects and internships**, where I have designed and contributed to scalable infrastructure **that is actively deployed**. With a strong foundation in **memory management, concurrency, and distributed systems**, I optimize **low-latency systems** while leveraging **algorithms and data structures** to solve complex engineering challenges. My experience spans **kernel development, distributed file systems, cloud platforms, and AI/ML frameworks**, giving me a versatile skill set to tackle both **infrastructure and application-level problems** across diverse software environments.
 
 - 🔭 **Currently Working On:** Optimizing low-level microprocessor designs and kernel-level projects.
 - ⚡ **Technical Focus:** Distributed Systems, SystemVerilog, C/C++, and Stream Processing.
@@ -28,7 +28,7 @@ I am a Junior at the **University of Illinois Urbana-Champaign** focused on buil
 
 ### 🤖 AI & Agentic Systems
 
-#### 🛠️ [CodeSense: LLM-Powered Developer Assistant](https://github.com/Anirudh-M1/llm-dev-assistant)
+#### 🛠️ [LLM-Powered Developer Assistant](https://github.com/Anirudh-M1/llm-dev-assistant)
 **The Challenge:** Build a scalable Retrieval-Augmented Generation (RAG) system capable of performing semantic search and reasoning across large, multi-repo codebases.
 * **Key Tech:** `Python`, `LangChain`, `OpenAI / LLaMA`, `FAISS (Vector DB)`, `FastAPI`, `AsyncIO`
 * **Advanced Code Retrieval:** Engineered a specialized chunking pipeline using **Abstract Syntax Trees (AST)** to split code by functional boundaries (classes/methods) rather than naive line counts.
