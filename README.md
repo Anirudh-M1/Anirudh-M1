@@ -5,9 +5,9 @@
 ---
 
 ### 🚀 Professional Summary
-I am a Junior at the **University of Illinois Urbana-Champaign**, building **high-performance, fault-tolerant systems** through **hands-on projects and internships**, where I have designed and contributed to scalable infrastructure **that is actively deployed**. With a strong foundation in **memory management, concurrency, and distributed systems**, I optimize **low-latency systems** while leveraging **algorithms and data structures** to solve complex engineering challenges. My experience spans **kernel development, distributed file systems, cloud platforms, and AI/ML frameworks**, giving me a versatile skill set to tackle both **infrastructure and application-level problems** across diverse software environments.
+I am a Junior at the **University of Illinois Urbana-Champaign**, building **high-performance, fault-tolerant systems** through **hands-on projects and internships**, where I have designed and contributed to scalable infrastructure **that is actively deployed**. With a strong foundation in **memory management, concurrency, and distributed systems**, I optimize **low-latency systems** while leveraging **algorithms and data structures** to solve complex engineering challenges. My experience spans **large scale integrated software devlopment, kernel development, distributed file systems, cloud platforms, and AI/ML frameworks**, giving me a versatile skill set to tackle both **infrastructure and application-level problems** across a magnitude of software environments.
 
-- 🔭 **Currently Working On:** Optimizing low-level microprocessor designs and kernel-level projects.
+- 🔭 **Currently Working On:** Optimizing low-level microprocessor designs and creating a LLM Powered Dev Assistant.
 - ⚡ **Technical Focus:** Distributed Systems, SystemVerilog, C/C++, and Stream Processing.
 - 🛠️ **Experience:** Incoming Data Engineering Intern @ **Zebra Technologies** (Summer 2026).
 - 🏛️ **Leadership:** Director of Operations and Technology for **Design for America (UIUC Chapter)**.
