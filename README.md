@@ -1,7 +1,6 @@
 # Hi, I'm Anirudh Moholkar 👋 
-**Computer Engineering @ UIUC | James Scholar | Dean's List | Fiddler Innovation Awardee**
-**SWE Intern @ Zebra Technologies**
-*Distributed Systems • Systems Programming • Scalable Infrastructure*
+**Computer Engineering @ UIUC | James Scholar | Dean's List | Fiddler Innovation Awardee**  
+**SWE Intern @ Zebra Technologies** | *Distributed Systems • Systems Programming • Scalable Infrastructure*
 
 ---
 
