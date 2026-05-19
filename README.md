@@ -90,4 +90,4 @@ I am a Junior at the **University of Illinois Urbana-Champaign**, building **hig
 - 📧 [Email Me!](mailto:amm21@illinois.edu)
 - 📄 [View My Resume](./path-to-your-resume.pdf)
 
-*"Currently deep-diving into lock-free concurrency and preparing for Summer 2026 SWE roles."*
+*"Currently deep-diving into Agentic Workflow Devlopment and preparing for Summer 2026 SWE roles."*
