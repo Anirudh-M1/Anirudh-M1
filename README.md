@@ -88,6 +88,6 @@ I am a Junior at the **University of Illinois Urbana-Champaign**, building **hig
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/amm21)
 - 📧 [Email Me!](mailto:amm21@illinois.edu)
-- 📄 [View My Resume](./path-to-your-resume.pdf)
+- 📄 [View My Resume](./Anirudh_Moholkar_Resume.pdf)
 
 *"Currently deep-diving into Agentic Workflow Devlopment and preparing for Summer 2026 SWE roles."*
