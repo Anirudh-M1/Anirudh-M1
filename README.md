@@ -1,27 +1,26 @@
 # Hi, I'm Anirudh Moholkar 👋 
-**Computer Engineering @ UIUC | James Scholar | Dean's List | Fiddler Innovation Awardee**  
-**SWE Intern @ Zebra Technologies** | *Distributed Systems • Systems Programming • Scalable Infrastructure • AI/ML Devlopment*
+**Computer Engineering @ UIUC | James Scholar | Dean's List | Fiddler Innovation Awardee** **SWE Intern @ Zebra Technologies** | *Distributed Systems • Systems Programming • Scalable Infrastructure • AI/ML Development*
 
 ---
 
 ### 🚀 Professional Summary
-I am a Junior at the **University of Illinois Urbana-Champaign**, building **high-performance, fault-tolerant systems** through **hands-on projects and internships**, where I have designed and contributed to scalable infrastructure **that is actively deployed**. With a strong foundation in **memory management, concurrency, and distributed systems**, I optimize **low-latency systems** while leveraging **algorithms and data structures** to solve complex engineering challenges. My experience spans **large scale integrated software devlopment, kernel development, distributed file systems, cloud platforms, and AI/ML frameworks**, giving me a versatile skill set to tackle both **infrastructure and application-level problems** across a magnitude of software environments.
+I am a Junior at the **University of Illinois Urbana-Champaign**, building **high-performance, fault-tolerant systems** through **hands-on projects and internships**, where I have designed and contributed to scalable infrastructure **that is actively deployed**. With a strong foundation in **memory management, concurrency, and distributed systems**, I optimize **low-latency systems** while leveraging **algorithms and data structures** to solve complex engineering challenges. My experience spans **large-scale integrated software development, kernel development, distributed file systems, cloud platforms, and AI/ML frameworks**, giving me a versatile skill set to tackle both **infrastructure and application-level problems** across a magnitude of software environments.
 
-- 🔭 **Currently Working On:** Optimizing low-level microprocessor designs and creating a LLM Powered Dev Assistant.
+- 🔭 **Currently Working On:** Optimizing low-level microprocessor designs and creating an LLM-Powered Dev Assistant.
 - ⚡ **Technical Focus:** Distributed Systems, SystemVerilog, C/C++, and Stream Processing.
-- 🛠️ **Experience:** Incoming Data Engineering Intern @ **Zebra Technologies** (Summer 2026).
+- 🛠️ **Experience:** Software Engineering Intern @ **Zebra Technologies** (Cloud & AI Integration).
 - 🏛️ **Leadership:** Director of Operations and Technology for **Design for America (UIUC Chapter)**.
 
 ---
 
 ### 🛠️ Technical Stack & Tools
 
-![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,go,postgres,docker,linux,git,githubactions)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,go,postgres,docker,linux,git,githubactions,spring)
 
 #### **Technical Skills**
 * **Languages:** C, C++, Python, Java, Go, SystemVerilog, SQL  
 * **Systems & Infrastructure:** Distributed Systems (HyDFS, RainStorm), Operating System & Kernel Development, RISC Architecture, System Design, Multithreading/Concurrency, Memory Management  
-* **Tools & Platforms:** Git, GitHub, CI/CD Pipelines (GitHub Actions, Jenkins), Docker, Linux/Unix, gRPC, REST APIs, Jira, BI Analytics (PowerBI, Tableau)  
+* **Tools & Platforms:** Git, GitHub, CI/CD Pipelines (GitHub Actions, Jenkins), Docker, Linux/Unix, gRPC, REST APIs, Spring Boot, Jira, BI Analytics (PowerBI, Tableau)  
 * **AI & Agentic Systems:** LangChain, Agentic Workflows (ReAct/Reflection), RAG Architecture, Vector Databases (Pinecone, Milvus), Prompt Evaluation (Evals), LLM Observability
 
 ---
@@ -34,6 +33,17 @@ I am a Junior at the **University of Illinois Urbana-Champaign**, building **hig
 * **Advanced Code Retrieval:** Engineered a specialized chunking pipeline using **Abstract Syntax Trees (AST)** to split code by functional boundaries (classes/methods) rather than naive line counts.
 * **Scalable Ingestion:** Implemented an **asynchronous ingestion pipeline** to parallelize embedding generation, maintaining sub-second retrieval latency across 10+ concurrent repositories.
 * **Production Engineering:** Developed a **FastAPI backend** with integrated logging to track query-to-explanation performance and retrieval accuracy.
+
+---
+
+### 🌐 Full-Stack Architecture & System
+
+#### ☕ [DFA Workshop — Full-Stack Refactor](https://github.com/Anirudh-M1/Full-Stack-Data-Design-Workshop)
+**The Challenge:** Overhaul an educational, monolithic single-file client application into a highly decoupled, production-grade full-stack architecture to help peers learn data engineering and layered software systems.
+* **Key Tech:** `Java 17`, `Spring Boot`, `Spring Data JPA`, `H2 (In-Memory DB)`, `JavaScript (ES6)`, `Maven`
+* **Backend Layering:** Enforced a strict layered architecture (`Controller` $\rightarrow$ `Service` $\rightarrow$ `Repository` $\rightarrow$ `DB`) hiding core entities using data transfer objects (`DTOs`) and custom mapping components to prevent JPA entity leakage.
+* **Resilient Error Handling:** Developed a centralized global exception handler via `@ControllerAdvice` to seamlessly catch edge-case validation issues and resource absences, replacing white-label stack traces with structured, client-safe `ApiError` JSON schemas.
+* **Frontend Modularization:** Decoupled layout, static presentation, and operational scripts. Engineered a custom asynchronous data pipeline via native `fetch` API utilizing lazy data rendering alongside a fallback state cache to ensure independent client stability.
 
 ---
 
@@ -81,7 +91,7 @@ I am a Junior at the **University of Illinois Urbana-Champaign**, building **hig
 * **System Infrastructure:** Designed an **ELF Loader** and developed **Pipes** for Inter-Process Communication (IPC) and I/O redirection.
 
 #### 💻 SLC-3.2: 16-bit RISC Microprocessor
-* **The Challenge:** Implementation of a 16-bit RISC microprocessor using **SystemVerilog**, focusing on instruction cycle timing and memory interfacing.
+**The Challenge:** Implementation of a 16-bit RISC microprocessor using **SystemVerilog**, focusing on instruction cycle timing and memory interfacing.
 
 ---
 
@@ -90,4 +100,4 @@ I am a Junior at the **University of Illinois Urbana-Champaign**, building **hig
 - 📧 [Email Me!](mailto:amm21@illinois.edu)
 - 📄 [View My Resume](./Anirudh_Moholkar_Resume.pdf)
 
-*"Currently deep-diving into Agentic Workflow Devlopment and preparing for Summer 2026 SWE roles."*
+*"Currently deep-diving into Agentic Workflow Development and preparing for Summer 2026 SWE roles."*
