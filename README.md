@@ -38,7 +38,7 @@ I am a Junior at the **University of Illinois Urbana-Champaign**, building **hig
 
 ### 🌐 Full-Stack Architecture & System
 
-#### ☕ [DFA Workshop — Full-Stack](https://github.com/Anirudh-M1/Full-Stack-Data-Design-Workshop)
+#### ☕ [DFA Workshop - Full-Stack](https://github.com/Anirudh-M1/Full-Stack-Data-Design-Workshop)
 **The Challenge:** Overhaul an educational, monolithic single-file client application into a highly decoupled, production-grade full-stack architecture to help peers learn data engineering and layered software systems.
 * **Key Tech:** `Java 17`, `Spring Boot`, `Spring Data JPA`, `H2 (In-Memory DB)`, `JavaScript (ES6)`, `Maven`
 * **Backend Layering:** Enforced a strict layered architecture (`Controller` $\rightarrow$ `Service` $\rightarrow$ `Repository` $\rightarrow$ `DB`) hiding core entities using data transfer objects (`DTOs`) and custom mapping components to prevent JPA entity leakage.
