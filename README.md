@@ -1,6 +1,6 @@
 # Hi, I'm Anirudh Moholkar 👋
 
-**Computer Engineering @ UIUC** | James Scholar | Dean's List | Fiddler Innovation Awardee
+**Computer Engineering @ UIUC** | James Scholar | Dean's List | Fiddler Innovation Awardee  
 **SWE Intern @ Zebra Technologies** — *Distributed Systems • Systems Programming • Agentic AI • Scalable Infrastructure*
 
 ---
@@ -19,22 +19,32 @@ I'm a senior at the **University of Illinois Urbana-Champaign** who builds fault
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,go,postgres,docker,linux,git,githubactions,spring)](https://skillicons.dev)
 
-**Languages:** C, C++, Python, Java, Go, SystemVerilog, SQL   
+**Languages:** C, C++, Python, Java, Go, SystemVerilog, SQL  
 **Systems:** Distributed systems, OS/kernel development, RISC architecture, concurrency, memory management  
-**Infrastructure:** Docker, GitHub Actions, gRPC, REST, Spring Boot, Linux/Unix  
-**AI Systems:** RAG architecture, agentic workflows (ReAct/reflection), vector search (FAISS, Pinecone), LLM evaluation and observability  
+**Infrastructure:** Docker, GitHub Actions, gRPC, REST, Spring Boot, PostgreSQL, Linux/Unix  
+**AI Systems:** RAG architecture, agentic workflows (ReAct/reflection), vector search (FAISS, Pinecone), LLM evaluation and observability
 
 ---
 
 ## Professional Work
 
-At **Zebra Technologies** I've worked across cloud infrastructure and AI/data engineering, building agentic and retrieval systems for internal enterprise use: a human-in-the-loop agent for BI infrastructure hygiene, a retrieval-augmented agent over an enterprise data lake supporting procurement workflows, and an evaluation harness for measuring agent accuracy and hallucination rates across prompt and retrieval changes.
+### Zebra Technologies — SWE Intern, AI & Data Engineering *(2026)*
 
-*Source is proprietary and not published here. Happy to discuss design decisions and tradeoffs in conversation.*
+Built agentic and retrieval systems for internal enterprise use across supply chain and BI infrastructure.
+
+- **Power BI Infrastructure Agent** — an agentic human-in-the-loop workflow for report hygiene, surfacing unused and redundant assets for owner review and driving server decommission decisions.
+- **Procurement Agent (RAG)** — retrieval-augmented agent over an enterprise data lake supporting supply chain procurement workflows.
+- **LLM Evaluation Harness** — a measurement layer for agent accuracy and hallucination rates across prompt and retrieval changes, used to make model and pipeline decisions with data rather than intuition.
+
+### Zebra Technologies — SWE Intern, Cloud & Computing *(2025)*
+
+Cloud infrastructure and platform engineering; returned the following summer to the AI & Data Engineering org.
+
+*Source is proprietary and not published here. Happy to discuss architecture, tradeoffs, and results in conversation.*
 
 ---
 
-## Open Source Projects
+## Projects
 
 ### 🛠️ [LLM-Powered Code Assistant](https://github.com/Anirudh-M1/llm-dev-assistant)
 
@@ -66,14 +76,16 @@ Rebuilt a monolithic single-file teaching application into a decoupled full-stac
 
 > *These are university coursework projects. Source is kept private in accordance with UIUC academic integrity policy. Happy to walk through the architecture, failure modes, and design tradeoffs in conversation.*
 
-#### 📂 HyDFS — Hybrid Distributed File System
-A fault-tolerant distributed file system built from scratch for high availability and eventual consistency across a multi-node cluster.
-`C++` · `RPC` · `HTTP` · `concurrent programming`
+### 📂 HyDFS — Hybrid Distributed File System
+
+A fault-tolerant distributed file system built from scratch for high availability and eventual consistency across a multi-node cluster.  
+`C++` · `RPC` · `HTTP` · `concurrent programming`  
 Replication factor of 3 with concurrent write propagation; a background merge process reconciling file blocks after partitions or crashes; control flow (metadata over RPC) separated from data flow (transfers over HTTP) to keep coordination off the bulk path.
 
-#### 🌊 RainStorm — Distributed Stream-Processing Engine
-A lightweight stream processor supporting arbitrary execution topologies with exactly-once delivery semantics, benchmarked against Spark.
-`Go` · `goroutines/channels` · `distributed scheduling` · `state management`
+### 🌊 RainStorm — Distributed Stream-Processing Engine
+
+A lightweight stream processor supporting arbitrary execution topologies with exactly-once delivery semantics, benchmarked against Spark.  
+`Go` · `goroutines/channels` · `distributed scheduling` · `state management`  
 Leader-worker architecture with load-based scheduling over a synchronized availability map; a custom ping/ack channel system for task monitoring and automatic restart on failure; shuffle, broadcast, and fields-grouping routing semantics.
 
 <details>
@@ -81,21 +93,25 @@ Leader-worker architecture with load-based scheduling over a synchronized availa
 
 <br>
 
-#### 📡 Gossip-Style Group Membership Protocol
-Scalable failure detection with low false-positive rates under packet loss.
-`UDP` · `gossip heartbeating` · `SWIM-style ping-ack`
+### 📡 Gossip-Style Group Membership Protocol
+
+Scalable failure detection with low false-positive rates under packet loss.  
+`UDP` · `gossip heartbeating` · `SWIM-style ping-ack`  
 Suspicion mechanism with incarnation numbers allowing nodes to refute false failure claims before being declared failed; tuned for 3-second detection and 6-second cluster-wide dissemination.
 
-#### 🔍 Distributed Log Querier
-A distributed `grep` across multi-gigabyte logs on a VM cluster, using bidirectional RPC to fan out and aggregate results in parallel.
+### 🔍 Distributed Log Querier
+
+A distributed `grep` across multi-gigabyte logs on a VM cluster, using bidirectional RPC to fan out and aggregate results in parallel.  
 `Go` · `bidirectional RPC` · `parallel execution`
 
-#### 🐧 Unix-like Kernel Implementation
-Extended a teaching kernel to support full process lifecycles, virtual memory, and hardware abstraction.
-`C` · `x86` · `assembly` · `GDB`
+### 🐧 Unix-like Kernel Implementation
+
+Extended a teaching kernel to support full process lifecycles, virtual memory, and hardware abstraction.  
+`C` · `x86` · `assembly` · `GDB`  
 Context switching and scheduling for concurrent user-mode execution; page table handling with lazy allocation and process-specific stack mapping; ELF loader and pipes for IPC and I/O redirection.
 
-#### 💻 SLC-3.2 — 16-bit RISC Microprocessor
+### 💻 SLC-3.2 — 16-bit RISC Microprocessor
+
 A 16-bit RISC processor in SystemVerilog, focused on instruction cycle timing and memory interfacing.
 
 </details>
@@ -105,5 +121,5 @@ A 16-bit RISC processor in SystemVerilog, focused on instruction cycle timing an
 ## Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/amm21)
-- 📧 [amm21@illinois.edu](mailto:moholkar.anirudh@gmail.com)
+- 📧 [moholkar.anirudh@gmail.com](mailto:moholkar.anirudh@gmail.com)
 - 📄 [Resume](https://github.com/Anirudh-M1/Anirudh-M1/blob/main/Anirudh_Moholkar_Resume.pdf)
