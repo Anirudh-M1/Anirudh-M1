@@ -19,10 +19,10 @@ I'm a senior at the **University of Illinois Urbana-Champaign** who builds fault
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,go,postgres,docker,linux,git,githubactions,spring)](https://skillicons.dev)
 
-**Languages:** C, C++, Python, Java, Go, SystemVerilog, SQL
-**Systems:** Distributed systems, OS/kernel development, RISC architecture, concurrency, memory management
-**Infrastructure:** Docker, GitHub Actions, gRPC, REST, Spring Boot, Linux/Unix
-**AI Systems:** RAG architecture, agentic workflows (ReAct/reflection), vector search (FAISS, Pinecone), LLM evaluation and observability
+**Languages:** C, C++, Python, Java, Go, SystemVerilog, SQL   
+**Systems:** Distributed systems, OS/kernel development, RISC architecture, concurrency, memory management  
+**Infrastructure:** Docker, GitHub Actions, gRPC, REST, Spring Boot, Linux/Unix  
+**AI Systems:** RAG architecture, agentic workflows (ReAct/reflection), vector search (FAISS, Pinecone), LLM evaluation and observability  
 
 ---
 
