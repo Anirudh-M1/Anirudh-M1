@@ -64,7 +64,7 @@ Rebuilt a monolithic single-file teaching application into a decoupled full-stac
 
 ## Distributed Systems & Low-Level Work
 
-> *These are university coursework projects. Source is kept private in accordance with UIUC academic integrity policy — happy to walk through the architecture, failure modes, and design tradeoffs in an interview.*
+> *These are university coursework projects. Source is kept private in accordance with UIUC academic integrity policy — happy to walk through the architecture, failure modes, and design tradeoffs in conversation.*
 
 #### 📂 HyDFS — Hybrid Distributed File System
 A fault-tolerant distributed file system built from scratch for high availability and eventual consistency across a multi-node cluster.
