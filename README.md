@@ -72,7 +72,7 @@ Rebuilt a monolithic single-file teaching application into a decoupled full-stac
 
 ## Distributed Systems & Low-Level Work
 
-> *These are university coursework projects. Source is kept private in accordance with UIUC academic integrity policy — happy to walk through the architecture, failure modes, and design tradeoffs in conversation.*
+> *These are university coursework projects. Source is kept private in accordance with UIUC academic integrity policy — happy to walk through the architecture, failure modes, and design tradeoffs in an interview.*
 
 #### 📂 HyDFS — Hybrid Distributed File System
 A fault-tolerant distributed file system built from scratch for high availability and eventual consistency across a multi-node cluster.
@@ -83,6 +83,11 @@ Replication factor of 3 with concurrent write propagation; a background merge pr
 A lightweight stream processor supporting arbitrary execution topologies with exactly-once delivery semantics, benchmarked against Spark.
 `Go` · `goroutines/channels` · `distributed scheduling` · `state management`
 Leader-worker architecture with load-based scheduling over a synchronized availability map; a custom ping/ack channel system for task monitoring and automatic restart on failure; shuffle, broadcast, and fields-grouping routing semantics.
+
+<details>
+<summary><b>More systems & low-level projects</b></summary>
+
+<br>
 
 #### 📡 Gossip-Style Group Membership Protocol
 Scalable failure detection with low false-positive rates under packet loss.
@@ -100,6 +105,8 @@ Context switching and scheduling for concurrent user-mode execution; page table 
 
 #### 💻 SLC-3.2 — 16-bit RISC Microprocessor
 A 16-bit RISC processor in SystemVerilog, focused on instruction cycle timing and memory interfacing.
+
+</details>
 
 ---
 
