@@ -38,7 +38,7 @@ At **Zebra Technologies** I've worked across cloud infrastructure and AI/data en
 
 ### 🛠️ [LLM-Powered Code Assistant](https://github.com/Anirudh-M1/llm-dev-assistant)
 
-A retrieval-augmented assistant for querying and explaining Python codebases — built to explore how retrieval design decisions affect answer quality, and instrumented so that question can be answered with numbers instead of vibes.
+A retrieval-augmented assistant for querying and explaining Python codebases, built to explore how retrieval design decisions affect answer quality, and instrumented so that question can be answered with numbers instead of vibes.
 
 **Stack:** `Python` · `LangChain` · `FAISS` · `Ollama / Llama3` · `FastAPI` · `AsyncIO`
 
@@ -64,7 +64,7 @@ Rebuilt a monolithic single-file teaching application into a decoupled full-stac
 
 ## Distributed Systems & Low-Level Work
 
-> *These are university coursework projects. Source is kept private in accordance with UIUC academic integrity policy — happy to walk through the architecture, failure modes, and design tradeoffs in conversation.*
+> *These are university coursework projects. Source is kept private in accordance with UIUC academic integrity policy. Happy to walk through the architecture, failure modes, and design tradeoffs in conversation.*
 
 #### 📂 HyDFS — Hybrid Distributed File System
 A fault-tolerant distributed file system built from scratch for high availability and eventual consistency across a multi-node cluster.
