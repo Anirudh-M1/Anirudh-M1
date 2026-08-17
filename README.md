@@ -105,5 +105,5 @@ A 16-bit RISC processor in SystemVerilog, focused on instruction cycle timing an
 ## Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/amm21)
-- 📧 [amm21@illinois.edu](mailto:amm21@illinois.edu)
+- 📧 [amm21@illinois.edu](mailto:moholkar.anirudh@gmail.com)
 - 📄 [Resume](https://github.com/Anirudh-M1/Anirudh-M1/blob/main/Anirudh_Moholkar_Resume.pdf)
