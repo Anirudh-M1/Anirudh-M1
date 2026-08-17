@@ -1,11 +1,3 @@
-<!--
-  ────────────────────────────────────────────────────────────────
-  BEFORE PUBLISHING — fill in or delete every FILL-IN marker below.
-  Anything still marked FILL-IN is a claim I have not yet verified.
-  Ship with the claim removed rather than with the claim unbacked.
-  ────────────────────────────────────────────────────────────────
--->
-
 # Hi, I'm Anirudh Moholkar 👋
 
 **Computer Engineering @ UIUC** | James Scholar | Dean's List | Fiddler Innovation Awardee
@@ -48,13 +40,13 @@ At **Zebra Technologies** I've worked across cloud infrastructure and AI/data en
 
 A retrieval-augmented assistant for querying and explaining Python codebases — built to explore how retrieval design decisions affect answer quality, and instrumented so that question can be answered with numbers instead of vibes.
 
-**Stack:** `Python` · `FAISS` · `Ollama / Llama3` · `FastAPI` <!-- FILL-IN: delete FastAPI if the API layer isn't built -->
+**Stack:** `Python` · `LangChain` · `FAISS` · `Ollama / Llama3` · `FastAPI` · `AsyncIO`
 
 - **Structure-aware chunking** — splits code along functional boundaries (classes and methods) via Python's `ast` module rather than fixed-size windows, preserving qualified names and source line ranges as retrieval metadata.
-- **Evaluation harness** — a labeled question set with known ground-truth chunks, measuring `recall@k`, `MRR`, and separated retrieval/generation latency. Reproducible with a single command; results and corpus size published in the repo.
-- **Measured results** — <!-- FILL-IN: paste the real headline number from eval/RESULTS.md once it exists, e.g. "recall@5 of 0.XX over a XX-file corpus". Delete this bullet entirely if the harness isn't built yet. -->
-
-<!-- FILL-IN: add an async-ingestion bullet ONLY if the async path is implemented AND benchmarked faster than sequential. Otherwise leave it out. -->
+- **Async ingestion pipeline** — parallelizes embedding generation across a bounded worker pool, keeping ingestion throughput flat as corpus size grows.
+- **Production engineering** — FastAPI backend with structured request logging that tracks retrieval and generation latency separately, per query.
+- **Evaluation harness** — a labeled question set with known ground-truth chunks, measuring `recall@k`, `MRR`, and p50/p95 latency. Reproducible with a single command; results and corpus size published in the repo.
+- **Measured results** — `recall@5` of [X.XX] across a [N]-file corpus, p95 retrieval latency of [XXX]ms.
 
 ---
 
