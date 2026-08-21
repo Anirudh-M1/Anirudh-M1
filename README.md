@@ -107,7 +107,7 @@ A distributed `grep` across multi-gigabyte logs on a VM cluster, using bidirecti
 ### 🐧 Unix-like Kernel Implementation
 
 Extended a teaching kernel to support full process lifecycles, virtual memory, and hardware abstraction.  
-`C` · `x86` · `assembly` · `GDB`  
+`C` · `RISC-V` · `assembly` · `GDB`  
 Context switching and scheduling for concurrent user-mode execution; page table handling with lazy allocation and process-specific stack mapping; ELF loader and pipes for IPC and I/O redirection.
 
 ### 💻 SLC-3.2 — 16-bit RISC Microprocessor
