@@ -13,6 +13,8 @@ I'm a senior at the **University of Illinois Urbana-Champaign** who builds fault
 - 🏛️ **Leadership:** Director of Operations, **Design for America** (UIUC Chapter)
 - 🎓 **Graduating** May 2027 — seeking full-time SWE roles
 
+
+For a more detailed look at my projects check out my portfolio: https://anirudh-m1.github.io/portfolio/
 ---
 
 ## Technical Stack
