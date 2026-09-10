@@ -14,14 +14,14 @@ I'm a senior at the **University of Illinois Urbana-Champaign** who builds fault
 - 🎓 **Graduating** May 2027 — seeking full-time SWE roles
 
 
-For a more detailed look at my projects check out my portfolio: https://anirudh-m1.github.io/portfolio/
+**For a more detailed look at my projects check out my portfolio: https://anirudh-m1.github.io/portfolio/
 ---
 
 ## Technical Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,go,postgres,docker,linux,git,githubactions,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,java,go,postgres,docker,linux,git,githubactions,spring)](https://skillicons.dev)
 
-**Languages:** C, C++, Python, Java, Go, SystemVerilog, SQL  
+**Languages:** Python, C, C++, Java, Go, SystemVerilog, SQL  
 **Systems:** Distributed systems, OS/kernel development, RISC architecture, concurrency, memory management  
 **Infrastructure:** Docker, GitHub Actions, gRPC, REST, Spring Boot, PostgreSQL, Linux/Unix  
 **AI Systems:** RAG architecture, agentic workflows (ReAct/reflection), vector search (FAISS, Pinecone), LLM evaluation and observability
