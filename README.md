@@ -21,7 +21,7 @@ I'm a senior at the **University of Illinois Urbana-Champaign** who builds fault
 <a href="https://anirudh-m1.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Explore_my_portfolio-0969DA?style=for-the-badge" alt="Explore my portfolio" height="44">
 </a>
----
+
 
 ## Technical Stack
 
