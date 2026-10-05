@@ -15,7 +15,7 @@ I'm a senior at the **University of Illinois Urbana-Champaign** who builds fault
 
 
 <a href="https://anirudh-m1.github.io/portfolio/">
-  <img src="./assets/portfolio-button.svg" alt="Explore my 3D portfolio" width="400">
+  <img src="./assets/portfolio-button.svg" alt="Portfolio" width="300">
 </a>
 
 ## Technical Stack
