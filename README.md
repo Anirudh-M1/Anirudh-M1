@@ -12,7 +12,8 @@ I'm a senior at the **University of Illinois Urbana-Champaign** who builds fault
 - 🛠️ **Experience:** SWE Intern @ **Zebra Technologies** — Cloud & Computing, then AI & Data Engineering
 - 🏛️ **Leadership:** Director of Operations, **Design for America** (UIUC Chapter)
 - 🎓 **Education:** M.C.S. Computer Science, Grainger College of Engineering · May 2028 (Flexible Format)<br>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&thinsp;B.S. Computer Engineering, Grainger College of Engineering · May 2027 · Minor in Business, Gies College of Business
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&thinsp;B.S. Computer Engineering, Grainger College of Engineering · May 2027<br>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&thinsp;Minor in Business, Gies College of Business
 
 <a href="https://anirudh-m1.github.io/portfolio/">
   <img src="./assets/portfolio-button.svg?v=4" alt="Portfolio" width="300">
