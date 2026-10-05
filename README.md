@@ -11,8 +11,8 @@ I'm a senior at the **University of Illinois Urbana-Champaign** who builds fault
 - ⚡ **Focus:** distributed systems, evaluation-driven AI engineering, Go / C++ / Python
 - 🛠️ **Experience:** SWE Intern @ **Zebra Technologies** — Cloud & Computing, then AI & Data Engineering
 - 🏛️ **Leadership:** Director of Operations, **Design for America** (UIUC Chapter)
-- 🎓 **Education** M.C.S. Computer Science, Grainger College of Engineering · May 2028 (Flexible Format)
-                   B.S. Computer Engineering, Grainger College of Engineering · May 2027
+- 🎓 **Education:** M.C.S. Computer Science, Grainger College of Engineering · May 2028 (Flexible Format)
+                   **\n** B.S. Computer Engineering, Grainger College of Engineering · May 2027
                    Minor in Business, Gies College of Business
 
 
